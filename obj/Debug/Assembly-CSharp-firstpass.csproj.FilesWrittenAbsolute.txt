@@ -1,0 +1,34 @@
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/UnityEngine.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/UnityEditor.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/Mono.Cecil.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/Unity.DataContract.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/onieltoledo/Workspace/Unity/Bunny Run/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/UnityEngine.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/UnityEditor.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/Mono.Cecil.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/Unity.DataContract.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/onieltoledo/Workspace/Unity/21Frogs/Temp/bin/Debug/Mono.Cecil.Mdb.dll
